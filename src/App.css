@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  margin-top: 1%;
+}
+input {
+  padding: 10px;
+  font-size: 20px;
+}
+button {
+  padding: 10px;
+  font-size: 20px;
+}
